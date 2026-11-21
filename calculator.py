@@ -1,4 +1,7 @@
-import math
+# https://github.com/FNCYMonk/lab11-GA-DA
+# Partner 1: Graham Avidano
+# Partner 2: Daniel Atkins
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
